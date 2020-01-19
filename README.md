@@ -38,7 +38,7 @@ So, for the paddle I have created a scripted like :
   and also to change color of the ball , updating score in UI.
   
   
-  *polishing the game :) *
+  *polishing the game :)*
   
   ----- OUR GAME ENVIRONMENT IS DONE ,NOW IT'S TIME FOR AI------------
   
@@ -70,7 +70,9 @@ So, for the paddle I have created a scripted like :
    for the error function we will give the difference between the ball's y position (hitting on the backwall when misses)  and 
    paddle's y position.
    
-   we can get the ball's hitting position by RAYCASTING *that sounds terrifying* 
+   we can get the ball's hitting position by RAYCASTING 
+   
+   *that sounds terrifying* 
    
    this screenshot will give you an idea:
     https://github.com/parikshitsaikia1619/AI_agent_playing_PONG/blob/master/pics/Screenshot%20(52).png?raw=true
