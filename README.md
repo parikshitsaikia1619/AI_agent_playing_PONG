@@ -40,7 +40,9 @@ So, for the paddle I have created a scripted like :
   ----- OUR GAME ENVIRONMENT IS DONE ,NOW IT'S TIME FOR AI------------
   
   # A.I implementation of the paddle 
+  
   *Now it is the boss fight level*
+  
   TIME TO USE MACHINE LEARNING  * sigh * , I will keep as simple as possible
   So, I written my ANN from scratch.
   for this game we will use our ANN.
