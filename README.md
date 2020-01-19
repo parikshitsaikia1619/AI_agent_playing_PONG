@@ -27,6 +27,7 @@ So, for the paddle I have created a scripted like :
     add constant velocity of say x (in up direction) in paddle.
   if (... S is ..pressed)
     add constant velocity -x
+    
 *Piece of cake right.. let move on to ball*
 
   I have added a physics material on ball , for its bouciness.
@@ -35,6 +36,8 @@ So, for the paddle I have created a scripted like :
   
   I have done some collision checks on the ball , to know what it is hitting... you know DEBUGGING,
   and also to change color of the ball , updating score in UI.
+  
+  
   *polishing the game :) *
   
   ----- OUR GAME ENVIRONMENT IS DONE ,NOW IT'S TIME FOR AI------------
@@ -73,6 +76,11 @@ So, for the paddle I have created a scripted like :
     https://github.com/parikshitsaikia1619/AI_agent_playing_PONG/blob/master/pics/Screenshot%20(52).png?raw=true
     
    https://github.com/parikshitsaikia1619/AI_agent_playing_PONG/blob/master/pics/Screenshot%20(53).png?raw=true
+   
+   So basically our model will take the inputs , give the output , minimise the error by updating the weights and bias
+   to get better 
+   
+   *typical forward and backpropagation*
    
    FINALLY.... our model is ready our output will use to move the paddle.
    
