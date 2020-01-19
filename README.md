@@ -89,6 +89,8 @@ So, for the paddle I have created a scripted like :
    READ THE SCRIPTS FOR DETAILED UNDERSTANDING..
    # PLAY THE GAME TO TRAIN THE MODEL...ENJOY :)
    
+   To play the game just go to Pvs AI folder , select the exe file
+   
    
    
   
