@@ -5,7 +5,7 @@ Human vs AI , AI vs AI mode.
 training , tuning the AI agent for smart gameplay style
 
 gameplay image:
-https://github.com/parikshitsaikia1619/AI_agent_playing_PONG/blob/master/pics/Screenshot%20(51).png?raw=true
+![pic1](https://github.com/parikshitsaikia1619/AI_agent_playing_PONG/blob/master/pics/Screenshot%20(51).png?raw=true)
 
 # IMP NOTE : USE W AND S FOR PADDLE MOVEMENT , I forgot to add instructions in U.I
 
