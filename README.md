@@ -7,9 +7,9 @@ training , tuning the AI agent for smart gameplay style
 gameplay image:
 ![pic1](https://github.com/parikshitsaikia1619/AI_agent_playing_PONG/blob/master/pics/Screenshot%20(51).png?raw=true)
 
-# IMP NOTE : USE W AND S FOR PADDLE MOVEMENT , I forgot to add instructions in U.I
+## IMP NOTE : USE W AND S FOR PADDLE MOVEMENT , I forgot to add instructions in U.I
 
-# making the court
+## making the court
 It's damn simple.., just add lots of static meshes, make it look a PONG court ,
 tag the walls for collsion detection and raycasting. Add materials to make it look beautiful.
 Tadaaa...it's done.
@@ -19,7 +19,7 @@ Tadaaa...it's done.
 here it should look like:
 ![pic2](https://github.com/parikshitsaikia1619/AI_agent_playing_PONG/blob/master/pics/Screenshot%20(47).png?raw=true)
 
-# making movement of ball and paddle
+## making movement of ball and paddle
 I have added rigidbody to both of them , which makes movable by add force, velocity ... you know by Physics
 So, for the paddle I have created a scripted like :
 
@@ -42,7 +42,7 @@ So, for the paddle I have created a scripted like :
   
   ----- OUR GAME ENVIRONMENT IS DONE ,NOW IT'S TIME FOR AI------------
   
-  # A.I implementation of the paddle 
+  ## A.I implementation of the paddle 
   
   *Now it is the boss fight level*
   
@@ -87,7 +87,7 @@ So, for the paddle I have created a scripted like :
    FINALLY.... our model is ready our output will use to move the paddle.
    
    READ THE SCRIPTS FOR DETAILED UNDERSTANDING..
-   # PLAY THE GAME TO TRAIN THE MODEL...ENJOY :)
+   ## PLAY THE GAME TO TRAIN THE MODEL...ENJOY :)
    
    To play the game just go to Pvs AI folder , select the exe file
    
