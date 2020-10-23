@@ -17,7 +17,7 @@ Tadaaa...it's done.
 *you can do it man , I believe in you*
 
 here it should look like:
-https://github.com/parikshitsaikia1619/AI_agent_playing_PONG/blob/master/pics/Screenshot%20(47).png?raw=true
+![pic2](https://github.com/parikshitsaikia1619/AI_agent_playing_PONG/blob/master/pics/Screenshot%20(47).png?raw=true)
 
 # making movement of ball and paddle
 I have added rigidbody to both of them , which makes movable by add force, velocity ... you know by Physics
@@ -75,9 +75,9 @@ So, for the paddle I have created a scripted like :
    *that sounds terrifying* 
    
    this screenshot will give you an idea:
-    https://github.com/parikshitsaikia1619/AI_agent_playing_PONG/blob/master/pics/Screenshot%20(52).png?raw=true
+    ![pic3](https://github.com/parikshitsaikia1619/AI_agent_playing_PONG/blob/master/pics/Screenshot%20(52).png?raw=true)
     
-   https://github.com/parikshitsaikia1619/AI_agent_playing_PONG/blob/master/pics/Screenshot%20(53).png?raw=true
+   ![pic4](https://github.com/parikshitsaikia1619/AI_agent_playing_PONG/blob/master/pics/Screenshot%20(53).png?raw=true)
    
    So basically our model will take the inputs , give the output , minimise the error by updating the weights and bias
    to get better 
